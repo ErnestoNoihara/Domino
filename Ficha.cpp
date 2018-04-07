@@ -12,5 +12,5 @@ ficha::ficha(int nA, int nB, ficha *fichaDespues) {
 ficha::~ficha() {
 
 
-
+hola soy ernesto
 }
